@@ -1,0 +1,6 @@
+This is todo list app 
+Features
+1. form submit - insert 
+2. featch data from database - read
+3. show in a table
+4. using datatables jquery for showing data
